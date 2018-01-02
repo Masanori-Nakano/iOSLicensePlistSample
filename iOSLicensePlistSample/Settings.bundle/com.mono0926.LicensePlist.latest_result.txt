@@ -1,0 +1,7 @@
+name: Alamofire, nameSpecified: , owner: Alamofire, version: 
+
+name: RxSwift, nameSpecified: , owner: ReactiveX, version: 
+
+add-version-numbers: false
+
+LicensePlist Version: 1.8.2
